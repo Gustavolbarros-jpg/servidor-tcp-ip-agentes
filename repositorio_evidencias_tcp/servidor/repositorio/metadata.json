@@ -1,0 +1,162 @@
+{
+  "EVD-20260510-0001": {
+    "id": "EVD-20260510-0001",
+    "nome_original": "foto1.png",
+    "nome_salvo": "EVD-20260510-0001_foto1.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0001_foto1.png",
+    "tamanho": 933572,
+    "hash_sha256": "da2afccdf15b9bb80635d0dbddef8451aaff5c02ae84037c386460407b8adc4f",
+    "data_upload": "2026-05-10T17:23:58.246566",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0002": {
+    "id": "EVD-20260510-0002",
+    "nome_original": "foto3.png",
+    "nome_salvo": "EVD-20260510-0002_foto3.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0002_foto3.png",
+    "tamanho": 1642592,
+    "hash_sha256": "ac4dd05553550bf491c3e46a06a50a88caa3e018359cad0930a04b1ca1c584ce",
+    "data_upload": "2026-05-10T17:23:58.325142",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0003": {
+    "id": "EVD-20260510-0003",
+    "nome_original": "foto5.png",
+    "nome_salvo": "EVD-20260510-0003_foto5.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0003_foto5.png",
+    "tamanho": 396828,
+    "hash_sha256": "6c1d5bd9b1a5ae3a017da3e03d3b0ac691ceed488c6a2e723b8a84b5d8714571",
+    "data_upload": "2026-05-10T17:23:58.332888",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0004": {
+    "id": "EVD-20260510-0004",
+    "nome_original": "video1.mp4",
+    "nome_salvo": "EVD-20260510-0004_video1.mp4",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0004_video1.mp4",
+    "tamanho": 3611752,
+    "hash_sha256": "577140aaec1660fa137627591ed3b18b70d900fab6ab69ad806e484c0a38a247",
+    "data_upload": "2026-05-10T17:23:58.810772",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0005": {
+    "id": "EVD-20260510-0005",
+    "nome_original": "foto2.png",
+    "nome_salvo": "EVD-20260510-0005_foto2.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0005_foto2.png",
+    "tamanho": 1452816,
+    "hash_sha256": "94d11af2c175079d6651223f61e61eb52edbb99eea99e5324fa1d4ff3c5df4db",
+    "data_upload": "2026-05-10T17:23:58.827607",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0006": {
+    "id": "EVD-20260510-0006",
+    "nome_original": "foto6.png",
+    "nome_salvo": "EVD-20260510-0006_foto6.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0006_foto6.png",
+    "tamanho": 525999,
+    "hash_sha256": "624c642f896b9c9dfe43951b34be5a47abbdc710ff5164e3c11c9b0b0123dbe6",
+    "data_upload": "2026-05-10T17:23:58.836474",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0007": {
+    "id": "EVD-20260510-0007",
+    "nome_original": "video2.mp4",
+    "nome_salvo": "EVD-20260510-0007_video2.mp4",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0007_video2.mp4",
+    "tamanho": 6322484,
+    "hash_sha256": "d8bc42790ed3ff37508d2f760afb16cf8ce645aff777305e61200eac275e05d2",
+    "data_upload": "2026-05-10T17:24:00.176384",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0008": {
+    "id": "EVD-20260510-0008",
+    "nome_original": "foto4.png",
+    "nome_salvo": "EVD-20260510-0008_foto4.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0008_foto4.png",
+    "tamanho": 275367,
+    "hash_sha256": "4a8892ded3f1a3f689f7d9e9d233882be58fd79de73aca0d005ff35f194de354",
+    "data_upload": "2026-05-10T17:24:00.180961",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0009": {
+    "id": "EVD-20260510-0009",
+    "nome_original": "foto1.png",
+    "nome_salvo": "EVD-20260510-0009_foto1.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0009_foto1.png",
+    "tamanho": 933572,
+    "hash_sha256": "da2afccdf15b9bb80635d0dbddef8451aaff5c02ae84037c386460407b8adc4f",
+    "data_upload": "2026-05-10T17:29:58.183078",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0010": {
+    "id": "EVD-20260510-0010",
+    "nome_original": "foto3.png",
+    "nome_salvo": "EVD-20260510-0010_foto3.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0010_foto3.png",
+    "tamanho": 1642592,
+    "hash_sha256": "ac4dd05553550bf491c3e46a06a50a88caa3e018359cad0930a04b1ca1c584ce",
+    "data_upload": "2026-05-10T17:29:58.261781",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0011": {
+    "id": "EVD-20260510-0011",
+    "nome_original": "foto5.png",
+    "nome_salvo": "EVD-20260510-0011_foto5.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0011_foto5.png",
+    "tamanho": 396828,
+    "hash_sha256": "6c1d5bd9b1a5ae3a017da3e03d3b0ac691ceed488c6a2e723b8a84b5d8714571",
+    "data_upload": "2026-05-10T17:29:58.266367",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0012": {
+    "id": "EVD-20260510-0012",
+    "nome_original": "video1.mp4",
+    "nome_salvo": "EVD-20260510-0012_video1.mp4",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0012_video1.mp4",
+    "tamanho": 3611752,
+    "hash_sha256": "577140aaec1660fa137627591ed3b18b70d900fab6ab69ad806e484c0a38a247",
+    "data_upload": "2026-05-10T17:29:58.741614",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0013": {
+    "id": "EVD-20260510-0013",
+    "nome_original": "foto2.png",
+    "nome_salvo": "EVD-20260510-0013_foto2.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0013_foto2.png",
+    "tamanho": 1452816,
+    "hash_sha256": "94d11af2c175079d6651223f61e61eb52edbb99eea99e5324fa1d4ff3c5df4db",
+    "data_upload": "2026-05-10T17:29:58.759234",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0014": {
+    "id": "EVD-20260510-0014",
+    "nome_original": "foto6.png",
+    "nome_salvo": "EVD-20260510-0014_foto6.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0014_foto6.png",
+    "tamanho": 525999,
+    "hash_sha256": "624c642f896b9c9dfe43951b34be5a47abbdc710ff5164e3c11c9b0b0123dbe6",
+    "data_upload": "2026-05-10T17:29:58.765268",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0015": {
+    "id": "EVD-20260510-0015",
+    "nome_original": "video2.mp4",
+    "nome_salvo": "EVD-20260510-0015_video2.mp4",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0015_video2.mp4",
+    "tamanho": 6322484,
+    "hash_sha256": "d8bc42790ed3ff37508d2f760afb16cf8ce645aff777305e61200eac275e05d2",
+    "data_upload": "2026-05-10T17:30:00.140824",
+    "volume": "2026-05-10"
+  },
+  "EVD-20260510-0016": {
+    "id": "EVD-20260510-0016",
+    "nome_original": "foto4.png",
+    "nome_salvo": "EVD-20260510-0016_foto4.png",
+    "caminho": "repositorio/2026-05-10/EVD-20260510-0016_foto4.png",
+    "tamanho": 275367,
+    "hash_sha256": "4a8892ded3f1a3f689f7d9e9d233882be58fd79de73aca0d005ff35f194de354",
+    "data_upload": "2026-05-10T17:30:00.145374",
+    "volume": "2026-05-10"
+  }
+}
