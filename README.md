@@ -89,10 +89,12 @@ Passo 1 — Clone o repositório
 bashgit clone https://github.com/Gustavolbarros-jpg/servidor-tcp-ip-agentes.git  
 cd repositorio_evidencias
 
-Passo 2 — Coloque seus arquivos na pasta midia/
-bashmkdir -p cliente/midia
-# copie suas fotos e vídeos para dentro da pasta cliente/midia/
+Passo 2 — Arquivos de teste
 
+O repositório já contém fotos e vídeos de exemplo na pasta cliente/midia/ 
+para fins de teste. Basta clonar e já rodar direto no Passo 3.
+
+Caso queira testar com seus próprios arquivos, substitua o conteúdo de cliente/midia/.
 Passo 3 — Inicie o servidor (Terminal 1)
 bashcd servidor
 python3 servidor.py
