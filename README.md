@@ -7,7 +7,7 @@ Gustavo Ferreira
 Isaac Teixeira
 Wallace Gabriel
 Vinicius Cavalcanti
-Gabriel Machadocd ..
+Gabriel Machado
 
 
 📌 Sobre o Projeto
@@ -86,7 +86,7 @@ Nenhuma biblioteca externa necessária (só biblioteca padrão do Python)
 
 
 Passo 1 — Clone o repositório
-bashgit clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+bashgit clone https://github.com/Gustavolbarros-jpg/servidor-tcp-ip-agentes.git  
 cd repositorio_evidencias
 
 Passo 2 — Coloque seus arquivos na pasta midia/
